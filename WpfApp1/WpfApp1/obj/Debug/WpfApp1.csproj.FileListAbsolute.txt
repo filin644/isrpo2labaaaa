@@ -1,0 +1,89 @@
+C:\Users\429195-11\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\429195-11\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\429195-11\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\429195-11\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\429195-11\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\429195-11\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\429195-11\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\429195-11\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\429195-11\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\429195-11\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\429195-11\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\429195-11\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\429195-11\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\429195-11\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\429195-11\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.Bson.dll
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\bin\Debug\System.Buffers.dll
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\bin\Debug\System.Memory.dll
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\bin\Debug\System.Net.Http.Formatting.dll
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.Bson.pdb
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.Bson.xml
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\bin\Debug\System.Buffers.xml
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\bin\Debug\System.Memory.xml
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\bin\Debug\System.Net.Http.Formatting.xml
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\obj\Debug\ADD_char.g.cs
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\obj\Debug\ADD_char.baml
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\obj\Debug\Window2.g.cs
+H:\ИСРПО\лаба11исрпо\WpfApp1\WpfApp1\obj\Debug\Window2.baml
+E:\isrpo 2 laba\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\isrpo 2 laba\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+E:\isrpo 2 laba\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\isrpo 2 laba\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.Bson.dll
+E:\isrpo 2 laba\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+E:\isrpo 2 laba\WpfApp1\WpfApp1\bin\Debug\System.Buffers.dll
+E:\isrpo 2 laba\WpfApp1\WpfApp1\bin\Debug\System.Memory.dll
+E:\isrpo 2 laba\WpfApp1\WpfApp1\bin\Debug\System.Net.Http.Formatting.dll
+E:\isrpo 2 laba\WpfApp1\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\isrpo 2 laba\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\isrpo 2 laba\WpfApp1\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\isrpo 2 laba\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+E:\isrpo 2 laba\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.Bson.pdb
+E:\isrpo 2 laba\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.Bson.xml
+E:\isrpo 2 laba\WpfApp1\WpfApp1\bin\Debug\System.Buffers.xml
+E:\isrpo 2 laba\WpfApp1\WpfApp1\bin\Debug\System.Memory.xml
+E:\isrpo 2 laba\WpfApp1\WpfApp1\bin\Debug\System.Net.Http.Formatting.xml
+E:\isrpo 2 laba\WpfApp1\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+E:\isrpo 2 laba\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\isrpo 2 laba\WpfApp1\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\isrpo 2 laba\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+E:\isrpo 2 laba\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\isrpo 2 laba\WpfApp1\WpfApp1\obj\Debug\ADD_char.g.cs
+E:\isrpo 2 laba\WpfApp1\WpfApp1\obj\Debug\Window2.g.cs
+E:\isrpo 2 laba\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+E:\isrpo 2 laba\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\isrpo 2 laba\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\isrpo 2 laba\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+E:\isrpo 2 laba\WpfApp1\WpfApp1\obj\Debug\ADD_char.baml
+E:\isrpo 2 laba\WpfApp1\WpfApp1\obj\Debug\Window2.baml
+E:\isrpo 2 laba\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\isrpo 2 laba\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\isrpo 2 laba\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\isrpo 2 laba\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\isrpo 2 laba\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+E:\isrpo 2 laba\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+E:\isrpo 2 laba\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
